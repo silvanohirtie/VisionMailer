@@ -80,7 +80,7 @@ Project Link: [https://github.com/mynameismental/VisionMailer](https://github.co
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Font Awesome](https://fontawesome.com)
-* [SMTP.js](SmtpJS.com)
+* [SMTP.js](https://SmtpJS.com)
 
 ## Code Feature
 * Php Registration and login system
