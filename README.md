@@ -14,7 +14,7 @@
     <a href="https://github.com/mynameismental/VisionMailer/blob/master/index.php"><strong>See the source»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Website</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/mynameismental/VisionMailer/issues">Report Bug</a>
     ·
