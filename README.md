@@ -1,58 +1,89 @@
-<body>
-  <div class="text" id="text">
-  <h1 class="floating">The best way
-  <br>to send
-  <br>anonymous <span>emails.</span>
-  <br>
-  </h1>
-  <br>
-<a href="/public/registerPage.php"><button type="button" class="btn btn-lg btn-outline-primary">Register Now</button></a>
-<a href="/public/loginPage.php"><button type="button" class="btn btn-lg btn-outline-primary">Login</button></a>
-<br>
-<br>
 
-</div>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="/src/img/Security.png" alt="Logo">
+  </a>
 
-  <div class="primary">
-      <img static="/src/img/email.png">
-      </div>
-<br>
-  <div class="flex-container">
+  <h3 align="center">VisionMailer</h3>
 
-<div style="background-color:rgb(56, 163, 255, .1); border-radius:7px">
+  <p align="center">
+    The best way to send anonymous emails!
+    <br />
+    <a href="https://github.com/mynameismental/VisionMailer/blob/master/index.php"><strong>See the source»</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/mynameismental/VisionMailer/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/mynameismental/VisionMailer/issues">Request Feature</a>
+  </p>
+</p>
 
-      <h5 class="card-title">&nbsp;🔒 Anonymous and Encrypted</h5>
-        <p class="card-text">&nbsp;We provide you an anonymous service,as well
-            <br> &nbsp;the not traceable tools
-            <br> &nbsp;we use for sending the mails.
-          </p>
-      </div>
-  <div style="background-color:rgb(56, 163, 255, .1); border-radius:7px">
-          <h5 class="card-title">💲 Free</h5>
-            <p class="card-text">We want our service to be avaible for everyone.
-                <br>no subscription or any type of payment, we are thinking of
-                <br>a premium plan in the future
-              </p>
 
-      </div>
-  <div style="background-color:rgb(56, 163, 255, .1); border-radius:7px">
-    <h5 class="card-title">📝 Logs <span id="word">free</h5>
-            <p class="card-text">We do not keep any type of logs,
-                <br>our user must be as anonymous as possible.
-                </p>
-      </div>
-<div>
-</div>
-      </div>
-      <div class ="socials">
-        <a href="https://github.com/mynameismental"><i style="color:black" class="fab fa-github fa-3x"></i></a>&nbsp;&nbsp;
-        <a href=""><i style="color:#7289DA;" class="fab fa-discord fa-3x"></i></a>
-      </div>
-      <script static="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-      <script static="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-      <script static="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-      <script static="https://kit.fontawesome.com/b022257bf2.js" crossorigin="anonymous"></script>
 
-</body>
+<!-- TABLE OF CONTENTS -->
+## Contents
 
-</html>
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Contributing](#contributing)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+* [Code Feature](#code-feature)
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+VisionMailer is created to offer anyone an open-source, anonymous,free to use and modern mail-sending service.  
+Why us? It is writed on our website!  
+We keep no logs of the user actions, even the registration can be made using temp.  
+Our service is free! No subscription or payments, the registration needs to be made for security reasons.  
+It is Open source! We let the community edit the project on front and back-end.
+
+
+### Built With
+
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
+* [php](https://www.php.net/)
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch
+5. Open a Pull Request
+
+
+<!-- CONTACT -->
+## Contact
+
+Discord: Mental#8106 - hirtie.silvano@gmail.com
+
+Project Link: [https://github.com/mynameismental/VisionMailer](https://github.com/mynameismental/VisionMailer)
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Font Awesome](https://fontawesome.com)
+* [SMTP.js](https://SmtpJS.com)
+
+## Code Feature
+* Php Registration and login system
+* Php Sessions usage
+* MySqli database usage
+* SMTP connectiona and usage (smtp.js)
