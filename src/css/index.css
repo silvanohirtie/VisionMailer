@@ -1,0 +1,72 @@
+body{
+  position: absolute;
+  overflow-x: hidden;
+}
+
+.socials{
+  margin: -750px 880px;
+}
+.text{
+
+    margin: 200px 100px;
+}
+h1{
+    font-family: 'Muli', !important;
+    font-size:4em;
+}
+
+.flexMain{
+  display:flex;
+  flex-direction: row;
+
+}
+.flexMain>div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+span{
+    color: #38a3ff;
+}
+
+.primary{
+    margin:-750px 900px;
+}
+.primary2{
+    margin:-600px 900px;
+}
+.flex-container {
+    display: flex;
+    margin:700px 0px;
+    flex-wrap: wrap;
+  }
+
+.flex-container>div {
+  margin: 90px;
+  padding: 1px;
+  font-size: 20px;
+  }
+
+  .border {
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+
+
+  }
+
+.floating {
+    animation-name: floating;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+@keyframes floating {
+    from { transform: translate(0,  0px); }
+    65%  { transform: translate(0, 15px); }
+    to   { transform: translate(0, -0px); }
+}

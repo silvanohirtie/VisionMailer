@@ -1,0 +1,18 @@
+
+h2{
+    font-family: 'Muli', !important;
+    font-size:4em;
+}
+.login{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+#registerContainer{
+  display:flex;
+  flex-direction: row;
+}
