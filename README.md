@@ -29,19 +29,15 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
-* [Usage](#usage)
 * [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
+* [Code Feature](#code-feature)
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 VisionMailer is created to offer anyone an open-source, anonymous,free to use and modern mail-sending service.  
 Why us? It is writed on our website!  
@@ -68,9 +64,9 @@ To get a local copy up and running follow these simple example steps.
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch
 5. Open a Pull Request
 
 
@@ -81,9 +77,13 @@ Discord: Mental#8106 - hirtie.silvano@gmail.com
 
 Project Link: [https://github.com/mynameismental/VisionMailer](https://github.com/mynameismental/VisionMailer)
 
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Font Awesome](https://fontawesome.com)
 * [SMTP.js](SmtpJS.com)
+
+## Code Feature
+* Php Registration and login system
+* Php Sessions usage
+* MySqli database usage
+* SMTP connectiona and usage (smtp.js)
