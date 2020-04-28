@@ -11,10 +11,10 @@
   <p align="center">
     The best way to send anonymous emails!
     <br />
-    <a href="https://github.com/silvanohirtie/VisionMailer/blob/master/index.php"><strong>See the source»</strong></a>
+    <a href="https://visionmailer.000webhostapp.com/"><strong>View Demo»</strong></a>
     <br />
     <br />
-    <a href="https://visionmailer.000webhostapp.com/">View Demo</a>
+    <a href="https://github.com/silvanohirtie/VisionMailer/blob/master/index.php">View Source</a>
     ·
     <a href="https://github.com/silvanohirtie/VisionMailer/issues">Report Bug</a>
     ·
