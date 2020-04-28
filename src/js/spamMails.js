@@ -23,7 +23,7 @@ if (mailText == ""){
 }
 else {
 var i = 0
-for (i = 0; i < 6; i++) {
+for (i = 0; i < 30; i++) {
   sleep(5000);
 Email.send({
     Host : "smtp.libero.it",
