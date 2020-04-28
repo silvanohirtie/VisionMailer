@@ -82,3 +82,4 @@ Project Link: [https://github.com/silvanohirtie/VisionMailer](https://github.com
 * Php Sessions usage
 * MySqli database usage
 * SMTP connectiona and usage (smtp.js)
+* Personal 404 Error page
