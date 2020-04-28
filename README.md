@@ -52,12 +52,6 @@ It is Open source! We let the community edit the project on front and back-end.
 * [JQuery](https://jquery.com)
 * [php](https://www.php.net/)
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
