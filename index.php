@@ -15,7 +15,7 @@ die();
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 <link href="https://fonts.googleapis.com/css?family=Muli:400,900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/src/css/index.css">
+<link rel="stylesheet" href="/src/css/main.css">
 <title>Vision | Anonymous Mails</title>
 
 
@@ -34,12 +34,10 @@ die();
 <a href="/public/loginPage.php"><button type="button" class="btn btn-lg btn-outline-primary">Login</button></a>
 <br>
 <br>
-
 </div>
-
-  <div class="primary">
-      <img static="/src/img/email.png">
-      </div>
+<div>
+    <img class = "primary" src="/src/img/email.png">
+    </div>
 <br>
   <div class="flex-container">
 

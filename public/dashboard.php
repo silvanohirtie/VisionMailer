@@ -30,6 +30,14 @@ die();
 <form>
     <div class="card">
       <h5 class="card-header">Send anonymous email</h5>
+      <?php
+      if (isset($_GET['error'])) {
+        if ($_GET['error'] == "emptyFields"){
+        echo '<p style="color:red">Error! Insert all the required informations!</p>';
+        }
+
+      }
+      ?>
       <div class="card-body">
       <div class="form-group">
         <label style="margin-right:45em;">Receiver</label>
@@ -69,8 +77,8 @@ die();
     </div>
   </div>
 </div>
-<script src="/src/js/sendMail.js"></script>
-<script src="/src/js/spamMail.js"></script>
+<script src="/src/js/sendMails.js"></script>
+<script src="/src/js/spamMails.js"></script>
 <script src="https://smtpjs.com/v3/smtp.js"></script>
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
