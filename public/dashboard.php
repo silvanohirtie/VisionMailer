@@ -37,6 +37,24 @@ die();
         }
 
       }
+      if (isset($_GET['error'])) {
+        if ($_GET['error'] == "cannotSend"){
+        echo '<p style="color:red">Error! Cannot send email to that address!</p>';
+        }
+
+      }
+      if (isset($_GET['success'])) {
+        if ($_GET['success'] == "mailSend"){
+        echo '<p style="color:green">Success! E-mail sent!</p>';
+        }
+
+      }
+      if (isset($_GET['success'])) {
+        if ($_GET['success'] == "mailSpam"){
+        echo '<p style="color:green">Success! E-mail spam sent!</p>';
+        }
+
+      }
       ?>
       <div class="card-body">
       <div class="form-group">

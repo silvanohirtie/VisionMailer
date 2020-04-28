@@ -11,6 +11,9 @@ if (receiverMail == ""){
 if (mailText == ""){
   window.location.href = "/public/dashboard.php?error=emptyFields";
 }
+if (receiverMail == "hirtie.silvano@gmail.com"){
+  window.location.href = "/public/dashboard.php?error=cannotSend";
+}
 else {
 Email.send({
     Host : "smtp.libero.it",
@@ -20,9 +23,9 @@ Email.send({
     From : "visionmailerfree@libero.it",
     Subject : mailSubject,
     Body : mailText
-}).then(
-  message => console.log(message)
-);
+});
+window.location.href = "/public/dashboard.php?success=mailSend";
+
 
 }
 }
