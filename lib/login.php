@@ -1,7 +1,7 @@
 <?php
 
 if (isset($_POST['loginButton'])){
-$mysqli = new mysqli("remotemysql.com", "iLzor9pVM9", "9KFEc9XP8M", "iLzor9pVM9");
+$mysqli = new mysqli("aaa", "sss", "ddd", "fff");
 $username = $_POST['inputLoginUsername'];
 $password = $_POST['inputLoginPassword'];
 
