@@ -11,14 +11,14 @@
   <p align="center">
     The best way to send anonymous emails!
     <br />
-    <a href="https://github.com/mynameismental/VisionMailer.github.io/blob/master/index.php"><strong>See the source»</strong></a>
+    <a href="https://github.com/silvanohirtie/VisionMailer.github.io/blob/master/index.php"><strong>See the source»</strong></a>
     <br />
     <br />
     <a href="https://visionmailer.000webhostapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/mynameismental/VisionMailer/issues">Report Bug</a>
+    <a href="https://github.com/silvanohirtie/VisionMailer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/mynameismental/VisionMailer/issues">Request Feature</a>
+    <a href="https://github.com/silvanohirtie/VisionMailer/issues">Request Feature</a>
   </p>
 </p>
 
@@ -69,7 +69,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Discord: Mental#8106 - hirtie.silvano@gmail.com
 
-Project Link: [https://github.com/mynameismental/VisionMailer](https://github.com/mynameismental/VisionMailer
+Project Link: [https://github.com/silvanohirtie/VisionMailer](https://github.com/silvanohirtie/VisionMailer
 )
 
 <!-- ACKNOWLEDGEMENTS -->
