@@ -2,7 +2,7 @@
 <?php
 session_start();
 if (isset($_POST['registerButton'])) {
-$mysqli = new mysqli("remotemysql.com", "iLzor9pVM9", "9KFEc9XP8M", "iLzor9pVM9");
+$mysqli = new mysqli("aaa", "sss", "ddd", "fff");
 $username = $_POST['inputRegisterUsername'];
 $password = $_POST['inputRegisterPassword'];
 $email = $_POST['inputRegisterEmail'];
