@@ -67,7 +67,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Discord: Mental#8106 - hirtie.silvano@gmail.com
+Discord: Silvano#8106 - hirtie.silvano@gmail.com
 
 Project Link: [https://github.com/silvanohirtie/VisionMailer](https://github.com/silvanohirtie/VisionMailer
 )
