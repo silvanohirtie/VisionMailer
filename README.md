@@ -9,9 +9,6 @@
   <h3 align="center">VisionMailer</h3>
 
   <p align="center">
-    The best way to send anonymous emails!
-    <br />
-    <a href="https://visionmailer.000webhostapp.com/"><strong>View Demo»</strong></a>
     <br />
     <br />
     <a href="https://github.com/silvanohirtie/VisionMailer/blob/master/index.php">View Source</a>
@@ -37,15 +34,6 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-VisionMailer is created to offer anyone an open-source, anonymous,free to use and modern mail-sending service.  
-Why us? It is writed on our website!  
-We keep no logs of the user actions, even the registration can be made using temp.  
-Our service is free! No subscription or payments, the registration needs to be made for security reasons.  
-It is Open source! We let the community edit the project on front and back-end.
-
-
 ### Built With
 
 * [Bootstrap](https://getbootstrap.com)
